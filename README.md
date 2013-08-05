@@ -4,18 +4,21 @@ TaskAtHand
 Idea gathering and organizing task management system
 
 Purpose
-+++++++
+=======
+
 Speedily Gather and Organize ideas so ideas don't get lost and so projects you are thinking about or working on are well documented and can be picked up or paused but not lost, forgotten, or abandoned.
 
 Objectives
-++++++++++
+==========
+
  *   Fast input of ideas;
  *   Flexible organization scheme;
  *   Easy to use;
  *   Beautiful;
 
 Features
-++++++++
+========
+
  *   Everything is a project
  *   A project is made up of 
     1. sub projects/tasks, 
@@ -25,10 +28,10 @@ Features
 
 
 Philosophies
-++++++++++++
+============
 
-"When people are organized, they get more finised"
---------------------------------------------------
+"When people are organized, they get more finished"
+---------------------------------------------------
 The idea here is that progress can't be made if ideas stay in peoples' heads as ideas. They need to be thrown around with others and executed. If ideas are collected, organized, and executed, everyone benifits from the possibility of more good ideas.
 
 "But not all ideas are good!"
